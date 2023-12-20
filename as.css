@@ -1,0 +1,38 @@
+/* as.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: url('https://media.tenor.com/ZZULcFufOKgAAAAC/space-galaxy.gif') center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+.title {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.explore-button,
+.encyclopedia-button,
+.tips-button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: blue;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 16px;
+}
+/* as.css */
+
+
